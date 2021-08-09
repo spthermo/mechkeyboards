@@ -31,8 +31,10 @@ If you don't buy a plate you end up with this:
 
 <img src="./assets/3.jpg" width="650">
 
-After re-soldering I finally got this -- not so bad -- build:
+After re-soldering I finally got this -- not so bad -- result:
 
 <img src="./assets/4.jpg" width="650">
 <img src="./assets/5.jpg" width="650">
 <img src="./assets/6.jpg" width="650">
+
+After using my keeb for 5+ months I can say that I love the 60% layout, **especially for coding**. I still slightly prefer blue over brown switches. Next build --> 40% keeb in acrylic case (TBA).
