@@ -4,7 +4,7 @@
 
 - **PCB** - DZ60 60% PCB with type-C and underglow RGB LEDs, [Banggood](https://www.banggood.com/buy/dz60-pcb.html) - 40 EUR
 - **Switches** - 70 Gateron brown 3pin switches (12eur), [KBDFans](https://kbdfans.com/) - 12 EUR
-- **Stabilizers** - Cherry PCB-Mount Stabilizers [KBDFans](https://kbdfans.com/) - 15 EUR
+- **Stabilizers** - Cherry PCB-Mount Stabilizers, [KBDFans](https://kbdfans.com/) - 15 EUR
 - **Keycaps** - 117KEY OEM profile Dolch PBT keyset, [KBDFans](https://kbdfans.com/) - 30 EUR
 - **Case** - Anodized aluminium 3 layers case for 60%, [MechMarket](https://www.reddit.com/r/mechmarket/) - 60 EUR
 - **Cable** - GMK Crimson theme [custom](https://kriscables.com/gallery) cable with 20cm coil, Type-C to Type-A - 80 EUR
