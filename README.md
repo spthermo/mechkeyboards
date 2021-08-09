@@ -19,3 +19,20 @@ A more targeted tutorial can be found [here](https://youtu.be/cRJV1jo5vao), from
 
 ## In the making
 
+Start fresh!
+
+<img src="./assets/1.jpg" width="650">
+
+Put some music on --> [my spotify playlist](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F?si=01c259f1635e416a)
+
+<img src="./assets/2.jpg" width="650">
+
+If you don't buy a plate you end up with this:
+
+<img src="./assets/2.jpg" width="650">
+
+After re-soldering I finally got this -- not so bad -- build:
+
+<img src="./assets/3.jpg" width="650">
+<img src="./assets/4.jpg" width="650">
+<img src="./assets/5.jpg" width="650">
