@@ -7,7 +7,7 @@
 - **Stabilizers** - Cherry PCB-Mount Stabilizers [KBDFans](https://kbdfans.com/) - 15 EUR
 - **Keycaps** - 117KEY OEM profile Dolch PBT keyset, [KBDFans](https://kbdfans.com/) - 30 EUR
 - **Case** - Anodized aluminium 3 layers case for 60%, [MechMarket](https://www.reddit.com/r/mechmarket/) - 60 EUR
-- **Cable** GMK Crimson theme [custom](https://kriscables.com/gallery) cable with 20cm coil, Type-C to Type-A - 80 EUR
+- **Cable** - GMK Crimson theme [custom](https://kriscables.com/gallery) cable with 20cm coil, Type-C to Type-A - 80 EUR
 
 ## Soldering details
 
