@@ -29,10 +29,10 @@ Put some music on --> [my spotify playlist](https://open.spotify.com/playlist/37
 
 If you don't buy a plate you end up with this:
 
-<img src="./assets/2.jpg" width="650">
+<img src="./assets/3.jpg" width="650">
 
 After re-soldering I finally got this -- not so bad -- build:
 
-<img src="./assets/3.jpg" width="650">
 <img src="./assets/4.jpg" width="650">
 <img src="./assets/5.jpg" width="650">
+<img src="./assets/6.jpg" width="650">
